@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Intro.html",
+    "currentPage": "Contact.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1835,9 +1835,9 @@
           "title": "CONTACT FORM",
           "subtitle": "",
           "form": {
-            "action": "arronkar@gmail.com",
+            "action": "email.arronkar@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Message Sent!"
             },
             "fields": {
               "name": {
